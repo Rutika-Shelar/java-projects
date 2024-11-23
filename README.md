@@ -21,8 +21,8 @@ Usage
 2. Follow the prompts to input numbers and operations.
 3. View the calculated result and choose to continue or exit.
 
-Example Screenshot
 Simple Calculator Output:
+
 ![calculator](https://github.com/user-attachments/assets/aa722531-1a69-48f4-b955-e1dd955ba9ba)
 
 
