@@ -49,7 +49,7 @@ Simple Banking Application Output:
 
 ![banking](https://github.com/user-attachments/assets/f3aad012-30ed-4c0d-b598-d2996ee50122)
 
-Student Management System
+⚫ Project 3: Student Management System
 A simple console-based application to manage student records. This system allows administrators to:
 
 Add new students.
